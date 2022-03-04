@@ -1,3 +1,4 @@
+using AutoMapper;
 using MovieApp.UI.Models;
 
 namespace MovieApp.UI.Data
