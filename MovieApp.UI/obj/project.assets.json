@@ -1267,11 +1267,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/MovieApp.UI.csproj",
+      "projectUniqueName": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/MovieApp.UI.csproj",
       "projectName": "MovieApp.UI",
-      "projectPath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/MovieApp.UI.csproj",
+      "projectPath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/MovieApp.UI.csproj",
       "packagesPath": "/Users/onurtekin/.nuget/packages/",
-      "outputPath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/obj/",
+      "outputPath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/onurtekin/.nuget/NuGet/NuGet.Config"

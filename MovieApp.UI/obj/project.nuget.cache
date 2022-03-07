@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ShfPs7vJsIiBDQOOQhnr1cakcytGo7HpS2Z/YG2LmmoKEGkr9RmOhMza3v3YywTXlYCH8GRq/J0YLVZtSHYvg==",
+  "dgSpecHash": "a6Kmk81nGZFT6Dq8yLJVtoSZd0nzw65ph+ZZ90zd4zJJVrlQNwSGVQSZjqZnIHcHulk+Cn8sATZTETSGshAQBw==",
   "success": true,
-  "projectFilePath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/MovieApp.UI.csproj",
+  "projectFilePath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/MovieApp.UI.csproj",
   "expectedPackageFiles": [
     "/Users/onurtekin/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
     "/Users/onurtekin/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

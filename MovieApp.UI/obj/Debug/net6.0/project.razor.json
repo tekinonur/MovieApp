@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/MovieApp.UI.csproj",
+  "FilePath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/MovieApp.UI.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16315,88 +16315,88 @@
   "RootNamespace": "MovieApp.UI",
   "Documents": [
     {
-      "FilePath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/Views/Shared/Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/Views/Movie/Index.cshtml",
-      "TargetPath": "Views\\Movie\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/Views/Movie/Details.cshtml",
-      "TargetPath": "Views\\Movie\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/Views/Home/Details.cshtml",
-      "TargetPath": "Views\\Home\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/Views/Home/_Movies.cshtml",
-      "TargetPath": "Views\\Home\\_Movies.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/Views/Shared/_Footer.cshtml",
+      "FilePath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/Views/Shared/_Footer.cshtml",
       "TargetPath": "Views\\Shared\\_Footer.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/Views/Shared/_Menu.cshtml",
-      "TargetPath": "Views\\Shared\\_Menu.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/Views/Shared/_Navbar.cshtml",
-      "TargetPath": "Views\\Shared\\_Navbar.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/Views/_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/Views/Home/Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/Views/Shared/Components/CategoryMenu/Default.cshtml",
-      "TargetPath": "Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/Views/Movie/List.cshtml",
-      "TargetPath": "Views\\Movie\\List.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/Views/Home/Contact.cshtml",
+      "FilePath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/Views/Home/Contact.cshtml",
       "TargetPath": "Views\\Home\\Contact.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/Views/_ViewStart.cshtml",
+      "FilePath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/Views/Movie/List.cshtml",
+      "TargetPath": "Views\\Movie\\List.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/onurtekin/Documents/Sources/git repos/MovieApp/MovieApp.UI/Views/Home/Privacy.cshtml",
+      "FilePath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/Views/Shared/_Navbar.cshtml",
+      "TargetPath": "Views\\Shared\\_Navbar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/Views/Home/_Movies.cshtml",
+      "TargetPath": "Views\\Home\\_Movies.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/Views/Shared/Components/CategoryMenu/Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/Views/Shared/Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/Views/Home/Details.cshtml",
+      "TargetPath": "Views\\Home\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/Views/Movie/Index.cshtml",
+      "TargetPath": "Views\\Movie\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/Views/Movie/Details.cshtml",
+      "TargetPath": "Views\\Movie\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/onurtekin/Repos/MovieApp/MovieApp.UI/Views/Shared/_Menu.cshtml",
+      "TargetPath": "Views\\Shared\\_Menu.cshtml",
       "FileKind": "mvc"
     }
   ],
